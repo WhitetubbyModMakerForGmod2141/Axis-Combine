@@ -1,0 +1,1 @@
+local Category = "Combine"local NPC = { 	Name = "Nazi Combine", 				Class = "npc_combine_s",				Model = "models/combine_soldier_Nazi.mdl",				Numgrenades = "10",				Squadname = "squad",				Weapons = { "weapon_ar2" },				Category = Category	}list.Set( "NPC", "npc_Nazi_combine", NPC )
